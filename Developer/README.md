@@ -1,0 +1,6 @@
+- Salesforce Certified B2C Commerce Developer
+- Salesforce Certified Industries CPQ Developer
+- Salesforce Certified JavaScript Developer I - Multiple Choice
+- Salesforce Certified OmniStudio Developer
+- Salesforce Certified Platform Developer I
+- Salesforce Certified Platform Developer II - Multiple Choice
