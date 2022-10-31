@@ -15,6 +15,8 @@
 
 ---
 
+[Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/ko/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
+
 #### Part1. Developer Fundamentals
 
 1. Apex & .NET Basics
