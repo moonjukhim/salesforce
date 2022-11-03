@@ -1,8 +1,16 @@
 ### Developing in Salesforce
 
 1. Apex & Lightning Platform 소개
-2. Apex 기본
+2. Apex 시작하기
 3. Apex Triggers
+4. Apex 데이터 유형
+5. DML로 레코드 조작
+6. SOQL 쿼리 작성
+7. SOSL 쿼리 작성
+8. Visualforce 이해하기
+9. Lightning Web Components 사용하기
+10. Apex 테스팅
+11. 보안
 
 ---
 
